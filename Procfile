@@ -1,0 +1,1 @@
+web: gunicorn buddhas.wsgi --log-file -
